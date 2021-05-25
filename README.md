@@ -1,6 +1,6 @@
 [![Build Status](https://api.travis-ci.org/tintinweb/evmdasm.svg?branch=master)](https://travis-ci.org/tintinweb/evmdasm/)
 
-# evmdasm
+# vvmdasm
 *A lightweight ethereum evm bytecode instruction registry, disassembler and evmcode manipulation library.*
 
 This library is meant for providing a static interface and registry for EVM opcodes and instructions. The idea is to keep it as lightweight as possible especially when it comes to dependencies or high level features.
